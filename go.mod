@@ -1,4 +1,4 @@
-module github.com/SeeSharpSi/saml
+module github.com/crewjam/saml
 
 go 1.19
 

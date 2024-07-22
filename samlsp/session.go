@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/SeeSharpSi/saml"
+	"github.com/crewjam/saml"
 )
 
 // Session is an interface implemented to contain a session.

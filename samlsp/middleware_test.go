@@ -23,8 +23,8 @@ import (
 	is "gotest.tools/assert/cmp"
 	"gotest.tools/golden"
 
-	"github.com/SeeSharpSi/saml"
-	"github.com/SeeSharpSi/saml/testsaml"
+	"github.com/crewjam/saml"
+	"github.com/crewjam/saml/testsaml"
 )
 
 type MiddlewareTest struct {
